@@ -9,6 +9,7 @@ Designed in **OrCAD X Capture** + **OrCAD X PCB Editor (Presto)**.
 - LM35 sensor
 - 3-pin header for easy connection (VCC, VOUT, GND)
 - RC low-pass filter on output
+- TVS Diode for voltage spike protection
 
 ---
 
